@@ -1,5 +1,3 @@
-# capstone_udactiy
-
 # Capstone project on CIFAR-100 image classification
 Comparison of various transfer learning techniques for classification of images from [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
