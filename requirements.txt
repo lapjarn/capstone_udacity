@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+jupyter
+pandas
+scikit-learn
+scikit-image
+urllib3
+opencv-python
+tensorflow
+keras
+git+https://www.github.com/keras-team/keras-contrib.git
