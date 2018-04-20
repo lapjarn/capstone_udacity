@@ -62,4 +62,4 @@ Stanford's [CS231n](http://cs231n.github.io/transfer-learning/) course gives a g
 
 We also trained a WRN 28-8 model and achieved validation accuracy of **65%** in 60 epochs. Wide Residual Networks (BMVC 2016) http://arxiv.org/abs/1605.07146 by Sergey Zagoruyko and Nikos Komodakis achieves accuracy over **82%** on the CIFAR-100 dataset in about 200 epochs. Our implementation has less accuracy due to less epochs and different optimizer and hyperparameter values. We just trained it to compare the training times with the other models.
 
-Bottleneck features transfer achieves comparable performance to lower benchmark models in less epochs and training time. Fine tuning and WRN take over 5 minutes per epoch using NVidia P4000 GPU while bottleneck model just took around 15s per epoch.
+Bottleneck features transfer achieves comparable performance to lower benchmark models in less epochs and training time. Fine tuning and WRN take over 5 minutes per epoch using NVidia P4000 GPU while bottleneck model just took around 15 seconds per epoch.
